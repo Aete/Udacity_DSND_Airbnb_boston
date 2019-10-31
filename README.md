@@ -29,9 +29,22 @@ Here are 3 interesting facts corresponding to the 3 questions.
 Jupyter notebook that contains explanations and codes for analyzing Airbnb Boston Dataset.
 
 2. Data
+
 2.1 listing.csv
 - Listings, including full descriptions and average review score
+
 2.2 reviews.csv
 - Reviews, including unique id for each reviewer and detailed comments
+
 2.3 calendar.csv
 - Calendar, including listing id and the price and availability for that day
+
+## How to run
+Just clone or download this repository.
+To run the jupyter notebook, you may need to install anaconda
+
+## Requirements
+Numpy 1.16.3 <br>
+Pandas 0.24.2 <br>
+Matplotlib 3.0.3 <br>
+Seaborn 0.9.0 <br>
